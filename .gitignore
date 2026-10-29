@@ -108,6 +108,7 @@ Assets/TextMesh Pro
 
 #独自に入れた書式・アセットやレジストリで重いものはここに追加していく
 Assets/Font/
+書き出し
 
 # ↓今回は容量が少ないので対象に入れる
-# Assets/AddPackages/
+#Assets/AddPackages/
